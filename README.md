@@ -11,13 +11,25 @@ Apply:
 
 `https://jigsaw.w3.org/css-validator`
 
+## Specificity Calculator
+
+`https://specificity.keegan.st`
+
+## Terms
+
+* `rule set`
+* `element selector`
+* `class selector`
+* `id selector`
+* `inheritance`
+
 ## YouTube
 
 `CSS Tutorial - Full Course for Beginners` by `freeCodeCamp.org`, `Dave Gray`
 
 1. Intro
 2. Start Here
-3.
+3. Selectors
 4.
 5.
 6.
