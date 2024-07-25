@@ -7,6 +7,10 @@ Apply:
 2. Internal
 3. Inline
 
+## Dave's HTML course
+
+`https://github.com/gitdagray/css_course`
+
 ## Validate CSS
 
 `https://jigsaw.w3.org/css-validator`
@@ -23,13 +27,30 @@ Apply:
 * `id selector`
 * `inheritance`
 
+## Colors
+
+* color names
+* rgb, #000000, #000
+* rgba
+* hsl
+
+### Color Picker
+
+`https://coolors.co`
+
+### Contrast Checker
+
+`https://coolors.co/contrast-checker`
+`https://webaim.org/resources/contrastchecker`
+
 ## YouTube
 
 `CSS Tutorial - Full Course for Beginners` by `freeCodeCamp.org`, `Dave Gray`
 
-1. Intro
-2. Start Here
-3. Selectors
+i. Intro
+1. Start Here
+2. Selectors
+3. Colors
 4.
 5.
 6.
